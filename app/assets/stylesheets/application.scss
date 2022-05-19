@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+// Graphical variables
+
+
+// External libraries
+
+
+// Your CSS partials
+@import "components/index";
+@import "groups";
+@import "pages";
+
+.div {
+  background-color: red;
+}
